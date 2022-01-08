@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/SawStreetTraining/static/css/main.942832e3.css",
-    "main.js": "/SawStreetTraining/static/js/main.dc95e851.js",
+    "main.js": "/SawStreetTraining/static/js/main.a104e251.js",
     "static/js/787.ce266896.chunk.js": "/SawStreetTraining/static/js/787.ce266896.chunk.js",
     "static/media/logo.svg": "/SawStreetTraining/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/SawStreetTraining/index.html",
     "main.942832e3.css.map": "/SawStreetTraining/static/css/main.942832e3.css.map",
-    "main.dc95e851.js.map": "/SawStreetTraining/static/js/main.dc95e851.js.map",
+    "main.a104e251.js.map": "/SawStreetTraining/static/js/main.a104e251.js.map",
     "787.ce266896.chunk.js.map": "/SawStreetTraining/static/js/787.ce266896.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.942832e3.css",
-    "static/js/main.dc95e851.js"
+    "static/js/main.a104e251.js"
   ]
 }
